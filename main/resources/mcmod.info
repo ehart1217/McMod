@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "ehart's test mode",
+  "description": "Example placeholder mod.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ehart"],
+  "credits": "Ehart, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
